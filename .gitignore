@@ -1,0 +1,10 @@
+
+# Ignore everything by default
+*
+
+# Keep the Git ignore file
+!.gitignore
+
+# Keep the lib folder and everything inside it
+!lib/
+!lib/**
